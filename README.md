@@ -4,13 +4,11 @@ In the course we extract public data from SpaceX present on a web page
 You will need to install yfinance if you are working with Anaconda
  '''
  !pip install yfinance 
- 
- '''
 
- ''' 
  !pip install bs4
 !pip install nbformat 
-'''
+ 
+ '''
 
 Install the libraries required to extract and display data
 
